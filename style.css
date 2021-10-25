@@ -1,0 +1,81 @@
+.nav-1 {
+  display: inline-block;
+  vertical-align: middle;
+  margin-left: 91px;
+}
+.LOGO {
+  display: inline-block;
+  vertical-align: middle;
+  padding-top: 20px;
+  padding-left: 21px;
+}
+.girl-pic {
+  display: inline-block;
+  vertical-align: middle;
+  padding-top: 11px;
+}
+.nav-li {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 21px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 13px;
+  font-weight: bold;
+  color: #343638;
+}
+/* header */
+.Container-1 {
+  width: 1200px;
+  margin: 25px auto;
+  background-color: #ffffff;
+}
+.left {
+  display: inline-block;
+  width: 360px;
+  position: relative;
+  margin-right: 40px;
+  background-color: #ffffff;
+}
+.middle {
+  display: inline-block;
+  position: relative;
+  width: 360px;
+  background-color: #ffffff;
+}
+.right {
+  display: inline-block;
+  width: 360px;
+  position: relative;
+  margin-left: 40px;
+  color: #ffffff;
+}
+.P-1 {
+  position: absolute;
+  top: 28px;
+  left: 40px;
+  font-family: Helvetica;
+  font-size: 16px;
+  color: #ffffff;
+}
+.P-2 {
+  width: 280px;
+  position: absolute;
+  top: 245px;
+  left: 40px;
+  color: #a6adb4;
+  font-size: 13px;
+  font-family: Acumin Pro Medium;
+}
+.image-time {
+  position: absolute;
+  bottom: 40px;
+  left: 40px;
+}
+.h1 {
+  font-family: Helvetica;
+  font-size: 24px;
+  margin-bottom: 40px;
+}
+.body {
+  background: #f6f8f9;
+}
